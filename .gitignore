@@ -1,0 +1,16 @@
+*.gz
+*.bbl
+*.blg
+*.log
+*.aux
+*tmp
+*.out
+*.toc
+*.psd
+*.fls
+*.fdb_latexmk
+*.bcf
+*.xml
+*.nav
+*.vrb
+*.snm
