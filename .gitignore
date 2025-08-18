@@ -8,6 +8,7 @@
 *.toc
 *.psd
 *.fls
+main.pdf
 *.fdb_latexmk
 *.bcf
 *.xml
